@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# output file
+score.json
+
+# package-lock
+package-lock.json
